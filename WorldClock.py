@@ -2,7 +2,7 @@ import network
 import urequests
 
 class WorldClock:
-    url = "http://deliciaskore.com.ar/getdt2.php"
+    url = "https://webelectronica.com.ar/utils/getdt.php"
     dateTime = [1900,1,1,0,0,0,0,0]
     net = ""
     pwd = ""
